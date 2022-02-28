@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nokkvi96
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning everything React
-- 📫 How to reach me nokkvi96@gmail.com nokkvi96@gmail.com
+- 📫 How to reach me nokkvi96@gmail.com
 - 🔨 Curently working on - [Quiz app](https://github.com/Nokkvi96/quiz-app "Quiz app")
 
 <!---
